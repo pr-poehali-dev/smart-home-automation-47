@@ -32,7 +32,7 @@ export default function Hero() {
         </p>
         <h1 className="text-6xl md:text-8xl lg:text-9xl font-bold tracking-tight mb-4 leading-none"
           style={{ fontFamily: "Georgia, serif", fontStyle: "italic" }}>
-          Анна & Михаил
+          Анастасия & Александр
         </h1>
         <div className="flex items-center justify-center gap-4 mt-8 opacity-90">
           <div className="h-px w-16 bg-white/60" />
